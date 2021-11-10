@@ -3,8 +3,8 @@ so when using these scripts run scripts #1- This is script2.'''
 
 '''Script #2 save as jutsu'''
 from mcpi.minecraft import Minecraft
-#mc = Minecraft.create(address="50.65.208.115", port=4711)
-mc = Minecraft.create(address="192.168.0.142", port=4711)
+
+mc = Minecraft.create(address="#.#.#.#", port=4711)
 
 import time
 
