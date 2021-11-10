@@ -64,3 +64,20 @@ nano into eula.txt and change false to true and run ./start.sh again. A minute o
 Server Address will be your servers IP and port.
 10.0.0.1:25565
 port:25565 is default and can be changed in the properties.server file.
+
+
+Follow my tutorial on how to get spigot booted and rooted. Once that is done you can run this script. There is two other scripts required in order to make this one work. You can download both from here.
+
+Once the script is running, go into Minecraft and type the corresponding # into the chat to activate the mod.
+1 :Water Pool jutsu!
+2 :Flowing Lava Jutsu!
+3 :Portal Summoning Jutsu
+4 :Oak Wood Jutsu
+5 :Obsidian Forbidin Jutsu
+6 :Amenotejikara 
+7 :All Mighty Push
+8 :Fireball Jutsu
+11 :Arrow Glass Prism Jutsu
+12 :Diamond Prism Jutsu
+13 :Ender Tools Jutsu
+14 :Mighty Sand Trap
