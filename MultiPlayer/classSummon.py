@@ -4,7 +4,7 @@ so when using these scripts run scripts #1- This is script3.'''
 '''Script #3 save as classSummon.py'''
 
 from mcpi.minecraft import Minecraft
-mc = Minecraft.create(address="192.168.0.142", port=4711)
+mc = Minecraft.create(address="#.#.#.#", port=4711)
 
 
 import time
