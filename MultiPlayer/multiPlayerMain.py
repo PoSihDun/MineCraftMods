@@ -132,8 +132,8 @@ def playerEntity2(player):
     from jutsu import amenotejikara, allMightyPush, stillWater, lavaFlow, portalDoor, oakPlank, darkMatter, fireAShot
     from mcpi.minecraft import Minecraft
 
-    #mc = Minecraft.create(address="50.65.208.115", port=8990, name="S0frosty")
-    mc = Minecraft.create(address="192.168.0.142", port=4711)
+   
+    mc = Minecraft.create(address="#.#.#.#", port=4711)
 
     chatPost = "0"
     while True:
@@ -240,8 +240,8 @@ def playerEntity3(player):
     from jutsu import amenotejikara, allMightyPush, stillWater, lavaFlow, portalDoor, oakPlank, darkMatter, fireAShot
     from mcpi.minecraft import Minecraft
 
-    #mc = Minecraft.create(address="50.65.208.115", port=8990, name="S0frosty")
-    mc = Minecraft.create(address="192.168.0.142", port=4711)
+    
+    mc = Minecraft.create(address="#.#.#.#", port=4711)
 
     chatPost = "0"
     while True:
@@ -347,8 +347,8 @@ def playerEntity4(player):
     from jutsu import amenotejikara, allMightyPush, stillWater, lavaFlow, portalDoor, oakPlank, darkMatter, fireAShot
     from mcpi.minecraft import Minecraft
 
-    #mc = Minecraft.create(address="50.65.208.115", port=8990, name="S0frosty")
-    mc = Minecraft.create(address="192.168.0.142", port=4711)
+  
+    mc = Minecraft.create(address="#.#.#.#", port=4711)
 
     chatPost = "0"
     while True:
