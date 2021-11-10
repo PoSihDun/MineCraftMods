@@ -6,7 +6,7 @@ from mcpi.minecraft import Minecraft
 from mcpi import entity
 
 
-mc = Minecraft.create(address="192.168.0.142", port=4711)
+mc = Minecraft.create(address="#.#.#.#", port=4711)
 
 players_ids = mc.getPlayerEntityIds()
 print(len(players_ids), " entities available.")
